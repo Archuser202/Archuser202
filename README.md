@@ -21,25 +21,22 @@ I'm passionate about technology, open-source, and building cool things with code
 
 <!-- Add your favorite tools, languages, or technologies here -->
 - 💻 **Languages:** Python, JavaScript, (add more!)
-- 🛠️ **Frameworks/Tools:** (add frameworks/tools you use)
-- ☁️ **Cloud & DevOps:** (add any cloud or CI/CD tools)
+- 🛠️ **Frameworks/Tools:** (OpenGL , Pygame , Manim , etc., )
+- ☁️ **Cloud & DevOps:** (what are these?)
 
 ---
 
 ## 🌟 Featured Projects
 
 <!-- Highlight a few repos or projects here -->
-- [Project 1](#) — Short description.
-- [Project 2](#) — Short description.
+Have no idea?
 
 ---
 
 ## 📫 Connect with Me
 
 <!-- Add your social links or contact methods here -->
-- [LinkedIn](#)
-- [Twitter](#)
-- [Personal Website](#)
+umm in the description?
 
 ---
 
