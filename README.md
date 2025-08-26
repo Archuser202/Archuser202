@@ -11,6 +11,7 @@ I'm passionate about technology, open-source, and building cool things with code
 
 ![Archuser202's Stats](https://github-readme-stats.vercel.app/api?username=Archuser202&theme=catppuccin_mocha&show_icons=true&hide_border=true&count_private=true)
 
+![](https://nirzak-streak-stats.vercel.app/?user=Archuser202&theme=catppuccin_mocha&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archuser202&layout=compact&theme=catppuccin_mocha&hide_border=true)
 
